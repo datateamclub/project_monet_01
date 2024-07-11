@@ -8,4 +8,4 @@ Our model consists of the imagined two components, a Generator model and a Discr
 
 We have found information about the structure they should have in order to fulfill our purpose, as the image shows below:
 
-![Model Structure](https://imgur.com/a/1YJC16J)
+[Model Structure](https://imgur.com/a/1YJC16J)
