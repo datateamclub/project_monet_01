@@ -76,6 +76,8 @@ https://github.com/junyanz/CycleGAN
 https://medium.com/@marcodelpra/generative-adversarial-networks-dba10e1b4424
 
 https://www.youtube.com/playlist?list=PLhhyoLH6IjfwIp8bZnzX8QR30TRcHO8Va
+
+Zhu, J.-Y., Park, T., Isola, P., & Efros, A. A. (2020). Unpaired image-to-image translation using cycle-consistent adversarial networks. Berkeley AI Research (BAIR) Laboratory, UC Berkeley.
  
 
 
