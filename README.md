@@ -1,4 +1,4 @@
-# Project_monet_01: I’m Something of a Painter Myself
+# Project 1: I’m Something of a Painter Myself
 
 This beginner-level open competition from Kaggle opened up the doors for our first steps in the **UM - Data Team Club** to get to work with GAN models.
 
