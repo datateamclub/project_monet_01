@@ -13,7 +13,8 @@ This served our purpose on learning and getting to study proficient modeling on 
 
 First we dived on the structure of the model, finding out theres a stablished stucture it should have, as the image shows below, eventhough in between the upsampling and downsampling generator layers more can be added depending on the modeling agent and its preferences.
 
-![Generator and discriminator structures used on GAN models](<image.png>)
+![Generator and discriminator structures used on GAN models](<strycture_model.png>)
+
 
 ## Future steps
 Definetely having ended this simple proyect paves the way for more complex modellings to be done the **Team**, mainly when thinking about creating our own adaptations on a GAN or even the whole model by ourselves.
