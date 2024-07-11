@@ -19,6 +19,8 @@ First we dived on the structure of the model, finding out theres a stablished st
 ### CycleGAN Model Overview
 CycleGAN is a type of generative adversarial network (GAN) designed for unsupervised learning of image-to-image translation tasks between two different domains. In this case, it aims to translate images between two domains: photos and Monet-style paintings.
 
+![Training on 7 epochs](<dcgan.gif>)
+
 ### Generator and Discriminator
 CycleGAN uses a generator and discriminator architecture where the generator learns to translate images between two domains (e.g., photos to Monet paintings) using downsampling to extract features and upsampling to generate the final output. The discriminator distinguishes between real and generated images by downsampling the input images and producing a binary classification output. This approach enables unsupervised learning of image-to-image translation tasks, facilitating the creation of artistic transformations between different visual domains.
 
