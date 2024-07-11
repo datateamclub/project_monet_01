@@ -49,10 +49,34 @@ The discriminator in CycleGAN (discriminator_fn()):
 - Feature Extraction: Downsampling helps in extracting high-level features from the input images, which are essential for generating images that capture the style and characteristics of the target domain.
 - Spatial Transformation: Upsampling restores the spatial dimensions of the image to generate outputs of the desired size. This is crucial for maintaining the structure and details of the transformed images.
 
-### Key lessons
+## Key lessons
 Understanding GAN models can initially seem intimidating, but they are more approachable than they appear. After weeks of investigation and tutorials, we discovered that grasping the structure of neural networks is fundamental to comprehending and effectively crafting these models. Unlike traditional machine learning approaches, GAN models operate with less theoretical underpinning and often rely on iterative experimentation for success. This hands-on, trial-and-error approach contrasts sharply with the more theoretical and proven methods found in classical machine learning models. 
 
-We're excited about learning about GAN models and we are ready for our next challenge! :) 
+We're excited about learning about GAN models and we are ready for our next challenge! 
 
 ## Future steps
 Definetely having ended this simple proyect paves the way for more complex modellings to be done the **Team**, mainly when thinking about creating our own adaptations on a GAN or even the whole model by ourselves.
+
+## References
+
+https://www.kaggle.com/code/dimitreoliveira/introduction-to-cyclegan-monet-paintings
+
+https://www.kaggle.com/code/amyjang/monet-cyclegan-tutorial
+
+https://towardsdatascience.com/5-kaggle-data-sets-for-training-gans-33dc2e035161
+
+https://www.kaggle.com/code/ryanholbrook/convolution-and-relu
+
+https://www.kaggle.com/code/ryanholbrook/the-sliding-window
+
+https://www.youtube.com/watch?v=xoAv6D05j7g
+
+https://github.com/junyanz/CycleGAN
+
+https://medium.com/@marcodelpra/generative-adversarial-networks-dba10e1b4424
+
+https://www.youtube.com/playlist?list=PLhhyoLH6IjfwIp8bZnzX8QR30TRcHO8Va
+ 
+
+
+
